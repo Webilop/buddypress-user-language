@@ -8,8 +8,11 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
-Buddypress User Language is a Buddypress extension that allows users to set the language displayed in the back-end and front-end of your buddypress site. 
+Buddypress User Language is a Buddypress extension that allows users to set the language displayed in the back-end and front-end of your Buddypress site.
 The available languages are taken from the current theme and the wordpress installation.
+This plugin requires 'Buddypress' and 'User Language Switch' to be installed in order to work. 
+The User Language Switch plugin can be downloaded from: http://wordpress.org/plugins/user-language-switch/
+
 
 = Localization =
 
