@@ -3,14 +3,14 @@ Contributors: webilop
 Tags: buddypress user language, localization, buddypress language switcher, buddypress language
 Requires at least: 3.0.1
 Tested up to: 3.5.2
-Stable tag: trunk
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 Buddypress User Language is a Buddypress extension that allows users to set the language displayed in the back-end and front-end of your Buddypress site.
 The available languages are taken from the current theme and the wordpress installation.
-This plugin requires 'Buddypress' and 'User Language Switch' to be installed in order to work. 
+This plugin requires 'Buddypress' and 'User Language Switch' to be installed in order to work.
 The User Language Switch plugin can be downloaded from: http://wordpress.org/plugins/user-language-switch/
 
 
@@ -44,3 +44,7 @@ Make sure you create a 'languages' folder in your theme folder containing the .m
 == Screenshots ==
 
 1. screenshot1.png illustrates the User Language options available in the frontend. It allows you to select the languages that will be used in the backend and the frontend as default for every buddypress member.
+
+== Changelog ==
+= 1.0.1 =
+* Update compability with Wordpress 4.4, Buddypress 2.4 and User Language Switch 1.6
